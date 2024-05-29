@@ -67,7 +67,7 @@ The code loses some functionality after September, and the background images sto
 ### 🟦 Stage 4
 - Name/Alias: Antara Baijal
 - Github account: https://github.com/abai311
-- Published webpage for stage 4: 
+- Published webpage for stage 4: https://abai311.github.io/Exquisite-Corpse-Stage-4-hypothetical-year/
 
 For this stage I wanted to utilise the progression of the seasons in a text-based story with multiple outcomes. I wanted to carry the feeling of unconventional time by shifting the perspective of the passing of seasons to that of a survivalist. This adds a life-or-death element to the changing of the weather and seasons that in the modern would we do not experience. In the game, the player starts at summertime, but migrates for the winter. The progression is unpredictable, and the outcome depends on the players early choices. 
 
