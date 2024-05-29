@@ -65,11 +65,16 @@ Some of the specific syntax in this code was given to me by both chatGPT, and so
 The code loses some functionality after September, and the background images stop changing, while the flowers just keep appearing on top of one another. Though I am unsure why this is happening, I think it actually adds to the message I was trying to portray. Sometimes we get so caught up in carrying out daily tasks, and dealing with our busy lives that we don't stop to appreciate what is around us. Eventually in this code, time itself stops, and the beautiful things that once went unnoticed, start piling on top of one another, making them unmistakeable, thus forcing you to take notice of them. It acts as a sort of intervention, showing the viewer that if they don't take the time to stop and slow down, the aspects of life they are missing will keep piling and piling.
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
-- Published webpage for stage 4:
+- Name/Alias: Antara Baijal
+- Github account: https://github.com/abai311
+- Published webpage for stage 4: 
 
-*... comments to be added here*
+For this stage I wanted to utilise the progression of the seasons in a text-based story with multiple outcomes. I wanted to carry the feeling of unconventional time by shifting the perspective of the passing of seasons to that of a survivalist. This adds a life-or-death element to the changing of the weather and seasons that in the modern would we do not experience. In the game, the player starts at summertime, but migrates for the winter. The progression is unpredictable, and the outcome depends on the players early choices. 
+
+I feel that the unpredictable arrival of winter, combined with the survivalist setting, lends itself to an unconventional view of time by carrying a familiar modern world concept (ie seasonal unpredictability, especially in the face of modern climate change), and confronts it with a survival scenario, where this very phenomenon dictates the continue survival of a person. 
+
+I struggled with the execution of this project, if I were to revisit it (in the short term), I would like to properly scale and align the text boxes, and scale the background images appropriately and fix any functionality issues. Having the text read out word by word and changing the font would go a long way to the presentation I feel. 
+
 
 ### 🟪 Stage 5
 - Name/Alias:
